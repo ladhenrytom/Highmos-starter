@@ -326,9 +326,11 @@ footer {
   grid-template-columns: 5fr 1fr;
 }
 .portfolio {
-  color: #fe5303;
+  color: #222;
   text-decoration: none;
 }
+.portfolio:hover{
+  color: #fe5303
 .top-header {
   position: fixed;
   width: 100%;
